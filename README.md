@@ -15,3 +15,7 @@ docker compose up -d
 
 PapersWithCode のトップページに表示される trend の論文を slack に通知する．  
 `.env`に DeepL か GCP の Translation API の token を設定しておくと，Absruct の日本語訳も一緒に通知される．
+
+## References
+
+<https://paperswithcode.com/api/v1/docs/>
